@@ -1,4 +1,4 @@
-package org.launchcode.demo;
+package org.launchcode.codingevents;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
